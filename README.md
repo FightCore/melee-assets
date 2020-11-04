@@ -9,7 +9,7 @@ The moves GIFs are being retaken to be 16:9 consistent 30 (?) FPS
 
 Characters done:
 - [ ] Bowser
-- [ ] Captain Falcon
+- [x] Captain Falcon
 - [ ] Donkey Kong
 - [ ] Dr. Mario
 - [x] Falco
@@ -17,12 +17,12 @@ Characters done:
 - [ ] Ganondorf
 - [ ] Ice Climbers
 - [ ] Jigglypuff
-- [ ] Kirby
+- [x] Kirby
 - [ ] Link
 - [ ] Luigi
 - [ ] Mario
 - [x] Marth
-- [ ] Mewtwo
+- [x] Mewtwo
 - [ ] Mr. Game & Watch
 - [ ] Ness
 - [ ] Peach
